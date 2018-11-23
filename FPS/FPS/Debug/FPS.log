@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  FPS.cpp
+c:\users\windows 10\documents\visual studio 2017\fps\fps\fps.cpp(161): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\windows 10\documents\visual studio 2017\fps\fps\fps.cpp(170): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  FPS.vcxproj -> C:\Users\Windows 10\Documents\Visual Studio 2017\FPS\Debug\FPS.exe
